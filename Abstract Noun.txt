@@ -1,0 +1,17 @@
+site: http://grammar.yourdictionary.com/parts-of-speech/nouns/Abstract-Nouns.html
+
+An abstract noun is a type of Noun that 'refers to something' (am chi dieu gi do)
+with which a peron cannot 'physically interact' (tac dong vat ly - o day la dong tu dung gioi tu with: physically interact with).
+A noun is a person, place or thing. However, in many cases, the "thing" might be an 'intangible concept' (vo hinh khai niem)
+- which means it is an abstract form of noun. In this instance, abstract means to exist apart from concrete existence.
+A noun that is abstract is an aspect, concept, idea, experience, state of being, trait, quality, or other entity that cannot
+be experienced with the five senses.
+
+RECOGNIZING WHEN A NOUN IS ABSTRACT
+ 
+'Concrete' (opposite of 'abstract') nouns are people, places, or things that we would experience with our five senses.
+The abstract class is the opposite - we can never experience these nouns according to our senses. If a noun is abstract,
+it describes something you cannot see, hear, touch, taste or smell.
+
+Sometimes it can be difficult to recognize when the noun is abstract because there are a number of words that can function
+in different ways.
