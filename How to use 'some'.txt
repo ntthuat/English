@@ -1,0 +1,13 @@
++Dung cho ca dem duoc va khong dem duoc trong sentence khang dinh.
+
+Some cats.
+Some oceans
+
++Trong cau phu dinh hoac cau hoi thi dung any thay cho some:
+
+There wasn't any milk.
+Has she sent you any photos?
+
++Tuy nhien, trong loi de nghi thi dung some:
+
+Would you like some coffee?
