@@ -10,3 +10,10 @@ Stop +V-ing: Dung lai viec gi
 
 He stop to have lunch: Anh ta dung lai de an trua
 He stop having lunch: Anh ta dung lai bua trua.
+---------------------------------------------------------
+3.LET - LET'S
+Let + sb + V-infinitive
+Let's + V-infinitive
+
+Let me help you.
+Let's get rid of this guy.
