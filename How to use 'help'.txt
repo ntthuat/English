@@ -1,0 +1,6 @@
+Help somebody + V: She helped me clean the house. 
+Help somebody to V: She helped me to clean the house 
+Help + to V: She can't help to clean the house. 
+Help + V: She can't help clean the house. 
+Help somebody + in V-ing.My mum helped me in learning English. 
+Help somebody with something: My mum helped me with English. 
